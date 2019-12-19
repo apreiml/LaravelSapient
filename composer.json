@@ -21,7 +21,7 @@
         "illuminate/support": "^5.4|^6.0",
         "symfony/psr-http-message-bridge": "^1.0",
         "paragonie/sapient": "^1.0.0",
-        "zendframework/zend-diactoros": "^1.4"
+        "zendframework/zend-diactoros": "^2.0"
     },
     "require-dev": {
         "laravel/framework": "^5.4|^6.0",
